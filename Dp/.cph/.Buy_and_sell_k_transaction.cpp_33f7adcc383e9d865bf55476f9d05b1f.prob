@@ -1,0 +1,1 @@
+{"name":"Local: Buy_and_sell_k_transaction","url":"d:\\Interview_Questions\\Dp\\Buy_and_sell_k_transaction.cpp","tests":[{"id":1606928101545,"input":"18\n6\n7\n8\n4\n1\n8\n9\n3\n2\n2\n1\n0\n8\n9\n5\n2\n2\n0\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Interview_Questions\\Dp\\Buy_and_sell_k_transaction.cpp","group":"local","local":true}

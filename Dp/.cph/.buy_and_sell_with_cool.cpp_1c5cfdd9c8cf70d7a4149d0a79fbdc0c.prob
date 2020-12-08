@@ -1,0 +1,1 @@
+{"name":"Local: buy_and_sell_with_cool","url":"d:\\Interview_Questions\\Dp\\buy_and_sell_with_cool.cpp","tests":[{"id":1606920209564,"input":"12\n10\n15\n17\n20\n16\n18\n22\n20\n22\n20\n23\n25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Interview_Questions\\Dp\\buy_and_sell_with_cool.cpp","group":"local","local":true}

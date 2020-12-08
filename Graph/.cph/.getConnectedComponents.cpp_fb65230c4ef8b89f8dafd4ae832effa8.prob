@@ -1,0 +1,1 @@
+{"name":"Local: getConnectedComponents","url":"d:\\Interview_Questions\\Graph\\getConnectedComponents.cpp","tests":[{"id":1607356361916,"input":"7\n5\n0 1 10\n2 3 10\n4 5 10\n5 6 10\n4 6 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Interview_Questions\\Graph\\getConnectedComponents.cpp","group":"local","local":true}

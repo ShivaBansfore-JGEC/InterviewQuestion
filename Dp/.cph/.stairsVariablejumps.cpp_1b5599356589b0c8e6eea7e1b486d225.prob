@@ -1,0 +1,1 @@
+{"name":"Local: stairsVariablejumps","url":"d:\\Interview_Questions\\Dp\\stairsVariablejumps.cpp","tests":[{"id":1606446896608,"input":"10\n3\n3\n0\n2\n1\n2\n4\n2\n0\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Interview_Questions\\Dp\\stairsVariablejumps.cpp","group":"local","local":true}
